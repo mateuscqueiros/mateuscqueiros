@@ -21,7 +21,7 @@ Web Developer **@hcodebr**
     </a>
 </p>
 
-Tenho 16 anos.<br>Atualmente programo em **HTML**, **CSS** e **JS**. Gosto muito de trabalhar com front-end usando **React** e principalmente **Next.js**<br>. Atualmente trabalho na **@hcodebr**.
+Tenho 16 anos.<br>Atualmente programo em **HTML**, **CSS** e **JS**. Gosto muito de trabalhar com front-end usando **React** e principalmente **Next.js**.<br> Atualmente trabalho na **@hcodebr**.
 <br>
 Comecei na área de desenvolvimento há 2 anos, por meio da Hcode no curso de JS.
 

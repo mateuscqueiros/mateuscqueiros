@@ -4,7 +4,7 @@ Web Developer **@hcodebr**
 
 <p align="left">
     <a href="https://discord.gg/KyAfDXa">
-        <img alt="My discord" src="https://img.shields.io/badge/Discord-MT%230007-orange">
+        <img alt="My discord" src="https://img.shields.io/badge/Discord-MT%230001-orange">
     </a>
     <a href="https://www.linkedin.com/in/mateus-queir%C3%B3s-215a671a6//">
         <img alt="My linkedin" src="https://img.shields.io/badge/LinkedIn-Mateus-blue">

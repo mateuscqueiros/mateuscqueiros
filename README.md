@@ -21,7 +21,7 @@ Estou estudando Typescrit, Nest.js, Next.js e C. Participando em projetos intern
 
 ### Redes sociais
 
-Além de Twitter, Linkedin e Gmail também atendo nas seguintes redes sociais:
+Além de LinkedIn e Gmail também atendo nas seguintes redes sociais:
 
 [![Discord Badge](https://img.shields.io/badge/-Hcode%20BR-ff760c?style=flat-square&labelColor=ff760c&logo=discord&logoColor=white&link=https://discord.gg/p5MtAkGejK)](https://discord.gg/p5MtAkGejK)
 [![Github Badge](https://img.shields.io/badge/-@mateuscqueiros-ff760c?style=flat-square&labelColor=ff760c&logo=github&logoColor=white&link=https://github.com/mateuscqueiros)](https://github.com/mateuscqueiros)

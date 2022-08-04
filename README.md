@@ -1,8 +1,8 @@
 # Mateus Queirós
 
-Web Developer **@hcodebr**
+Developer **@hcodebr**
 
-[![Twitter Badge](https://img.shields.io/badge/-@mateuscqueiros-ff760c?style=flat-square&labelColor=ff760c&logo=twitter&logoColor=white&link=https://twitter.com/mateuscqueiros)](https://twitter.com/mateuscqueiros) [![Linkedin Badge](https://img.shields.io/badge/-Mateus%20Queirós-ff760c?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateuscqueiros/)](https://www.linkedin.com/in/mateuscqueiros/) [![Gmail Badge](https://img.shields.io/badge/-mateuscqueiros@gmail.com-ff760c?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateuscqueiros@gmail.com)](mailto:mateuscqueiros@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Mateus%20Queirós-ff760c?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateuscqueiros/)](https://www.linkedin.com/in/mateuscqueiros/) [![Gmail Badge](https://img.shields.io/badge/-mateuscqueiros@gmail.com-ff760c?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateuscqueiros@gmail.com)](mailto:mateuscqueiros@gmail.com)
 
 Sou um desenvolvedor front-end com conhecimentos em **HTML**, **CSS** e **JS**. 
 Faço sites com **React** e **Next.js** e atualmente estou estudando **Typescript**.
@@ -12,13 +12,12 @@ da tecnologia. Meu site de notícias favorito é a <a href="https://news.ycombin
 
 ### Status
 
-Estou estudando Javascript e vou começar desenvolvimento com banco de dados por meio do Hcode Lab. Também estou fazendo o curso GoStack da Rocketseat.
+Estou estudando Typescrit, Nest.js, Next.js e C. Participando em projetos internos na @hcodebr
 
-### Projetos ativos
+### Projetos
 
 - Site Bot Script ([Ver](https://script-bot.vercel.app/))
-- Dashboard do Script (Em desenvolvimento)
-- GoStack Rocketseat ([Ver](https://github.com/mateuscqueiros/GoStack))
+- Chess ([Ver](https://mateuscqueiros.github.io/chess//))
 
 ### Redes sociais
 

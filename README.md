@@ -14,10 +14,10 @@ da tecnologia. Meu site de notícias favorito é a <a href="https://news.ycombin
 
 Estou estudando Typescrit, Nest.js, Next.js e C. Participando em projetos internos na @hcodebr
 
-### Projetos
+### Portfolio
 
-- ([Site Bot Script](https://script-bot.vercel.app/)) [Pausado]
-- ([Chess](https://mateuscqueiros.github.io/chess//)) [Ativo]
+- [Site Bot Script](https://script-bot.vercel.app/)
+- [Chess](https://mateuscqueiros.github.io/chess//) [Ativo]
 
 ### Redes sociais
 

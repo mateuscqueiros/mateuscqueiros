@@ -16,8 +16,8 @@ Estou estudando Typescrit, Nest.js, Next.js e C. Participando em projetos intern
 
 ### Projetos
 
-- Site Bot Script ([Ver](https://script-bot.vercel.app/))
-- Chess ([Ver](https://mateuscqueiros.github.io/chess//))
+- ([Site Bot Script](https://script-bot.vercel.app/)) [Pausado]
+- ([Chess](https://mateuscqueiros.github.io/chess//)) [Ativo]
 
 ### Redes sociais
 

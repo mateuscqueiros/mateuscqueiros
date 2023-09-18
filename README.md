@@ -17,14 +17,14 @@ da tecnologia.
 Estou estudando Typescrit, Nest.js, Next.js e C. Trabalhando na @hcodebr
 Estudante de Engenharia de Software pela Unicesumar. Previsão de finalização em 2025.
 
-### Portfolio
+### Projetos que tenho orgulho
 
 - [Site Bot Script](https://script-bot.vercel.app/)
 - [Accountant](https://github.com/mateuscqueiros/accountant) [Ativo]
 
 ### Redes sociais
 
-Além de LinkedIn e Gmail também atendo nas seguintes redes sociais:
+Além de LinkedIn e Email também atendo nas seguintes redes sociais:
 
 [![Discord Badge](https://img.shields.io/badge/-Hcode%20BR-ff760c?style=flat-square&labelColor=ff760c&logo=discord&logoColor=white&link=https://discord.gg/p5MtAkGejK)](https://discord.gg/p5MtAkGejK)
 [![Github Badge](https://img.shields.io/badge/-@mateuscqueiros-ff760c?style=flat-square&labelColor=ff760c&logo=github&logoColor=white&link=https://github.com/mateuscqueiros)](https://github.com/mateuscqueiros)

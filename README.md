@@ -1,6 +1,7 @@
 # Mateus Queirós
 
 Developer **@hcodebr**
+Estudante de Engenheria de Software pela **Unicesumar**
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mateus%20Queirós-ff760c?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateuscqueiros/)](https://www.linkedin.com/in/mateus-queir%C3%B3s-215a671a6/) [![Gmail Badge](https://img.shields.io/badge/-mateuscqueiros@gmail.com-ff760c?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateuscqueiros@gmail.com)](mailto:mateuscqueiros@gmail.com)
 
@@ -13,6 +14,7 @@ da tecnologia.
 ### Status
 
 Estou estudando Typescrit, Nest.js, Next.js e C. Trabalhando na @hcodebr
+Estudante de Engenharia de Software pela Unicesumar. Previsão de finalização em 2025.
 
 ### Portfolio
 

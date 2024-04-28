@@ -6,15 +6,14 @@ Estudante de Engenheria de Software pela **Unicesumar**
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mateus%20Queirós-ff760c?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateuscqueiros/)](https://www.linkedin.com/in/mateus-queir%C3%B3s-215a671a6/) [![Gmail Badge](https://img.shields.io/badge/-mateuscqueiros@gmail.com-ff760c?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateuscqueiros@gmail.com)](mailto:mateuscqueiros@gmail.com)
 
-Sou um desenvolvedor de software com conhecimentos em **Typescript**, **React** e **Next.js** além de outros frameworks front-end.
-Faço sites com **React** com foco em performance e otimização da experiência do usuário.  Gosto de ler notícias em primeira mão e acompanhar lançamentos no mundo da tecnologia.
+Sou um desenvolvedor de software com conhecimentos em **Typescript**, **React** e **Next.js** além de outros frameworks front-end. Gosto de seguir boas práticas no desenvolvimento e encontrar perólas de conhecimento.  Gosto de ler notícias em primeira mão e acompanhar lançamentos no mundo da tecnologia. Capacito alunos no desenvolvimento front-end através de boas práticas e conhecimento prático adquirido ao longo dos anos.
 
 ### Status
 
-Atualmente estou estudando testes (RTL e Cypress) além de React Server Componentes, Next.js e integração de aplicações Front-end através de APIs.
-Trabalhando na @hcodebr
-Estudante de Engenharia de Software pela Unicesumar. Previsão de finalização em 2025.
-Lendo **The Pragmatic Programmer** por Andrew Hunt e Dave Thomas.
+- Lendo **The Pragmatic Programmer** por Andrew Hunt e Dave Thomas.
+- Estudando testes (RTL, Jest e Cypress) além de React Server Componentes, Next.js e integração de aplicações Front-end com APIs.
+- Trabalhando na @hcodebr como desenvolvedor e professor.
+- Estudante de Engenharia de Software.
 
 ### Projetos que tenho orgulho
 

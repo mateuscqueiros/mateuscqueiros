@@ -12,7 +12,7 @@ Sou um desenvolvedor de software com conhecimentos em **Typescript**, **React** 
 
 - Lendo **The Pragmatic Programmer** por Andrew Hunt e Dave Thomas.
 - Estudando testes (RTL, Jest e Cypress) além de React Server Componentes, Next.js e integração de aplicações Front-end com APIs.
-- Trabalhando na @hcodebr como desenvolvedor e professor.
+- Trabalhando na @hcodebr e @fiaptreinamentos como desenvolvedor e professor.
 - Estudante de Engenharia de Software.
 
 ### Projetos que tenho orgulho

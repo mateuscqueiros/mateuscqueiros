@@ -1,28 +1,22 @@
 # Mateus Queirós
 
-Developer **@hcodebr**
+Developer at **@hcodebr** and instructor for **@fiaptreinamentos**.
 
-Estudante de Engenheria de Software pela **Unicesumar**
+Software Engineering student at **Unicesumar**.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Mateus%20Queirós-ff760c?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateuscqueiros/)](https://www.linkedin.com/in/mateus-queir%C3%B3s-215a671a6/) [![Gmail Badge](https://img.shields.io/badge/-mateuscqueiros@gmail.com-ff760c?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateuscqueiros@gmail.com)](mailto:mateuscqueiros@gmail.com)
+&#x20;
 
-Sou um desenvolvedor de software com conhecimentos em **Typescript**, **React** e **Next.js** além de outros frameworks front-end. Gosto de seguir boas práticas no desenvolvimento e encontrar pérolas de conhecimento.  Gosto de ler notícias em primeira mão e acompanhar lançamentos no mundo da tecnologia. Capacito alunos no desenvolvimento front-end através de boas práticas e conhecimento prático adquirido ao longo dos anos.
+I am a software developer with knowledge in **TypeScript**, **React**, and **Next.js**, among other front-end frameworks. I enjoy following best development practices and discovering knowledge gems. I like reading first-hand news and keeping up with the latest technology releases. I train students in front-end development through best practices and practical knowledge acquired over the years.
 
 ### Status
 
-- Lendo **The Pragmatic Programmer** por Andrew Hunt e Dave Thomas.
-- Estudando testes (RTL, Jest e Cypress) além de React Server Componentes, Next.js e integração de aplicações Front-end com APIs.
-- Trabalhando na @hcodebr e @fiaptreinamentos como desenvolvedor e professor.
-- Estudante de Engenharia de Software.
+- Reading **The Pragmatic Programmer** by Andrew Hunt and Dave Thomas.
+- Studying testing (RTL, Jest, and Cypress) as well as React Server Components, Next.js, and integrating some internal applications with APIs.
+- Working at @hcodebr and @fiaptreinamentos as a developer and instructor.
+- Software Engineering student.
 
-### Projetos que tenho orgulho
+### Social Media
 
-- [Site Bot Script](https://script-bot.vercel.app/)
-- [Accountant](https://github.com/mateuscqueiros/accountant) [Ativo]
-
-### Redes sociais
-
-Além de LinkedIn e Email também atendo nas seguintes redes sociais:
-
-[![Discord Badge](https://img.shields.io/badge/-Hcode%20BR-ff760c?style=flat-square&labelColor=ff760c&logo=discord&logoColor=white&link=https://discord.gg/p5MtAkGejK)](https://discord.gg/p5MtAkGejK)
-[![Github Badge](https://img.shields.io/badge/-@mateuscqueiros-ff760c?style=flat-square&labelColor=ff760c&logo=github&logoColor=white&link=https://github.com/mateuscqueiros)](https://github.com/mateuscqueiros)
+[![My Portfolio](https://img.shields.io/badge/My%20Portfolio-0c192a?logo=vite&logoColor=fff)](https://mateuscqueiros.vercel.app/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/@mateuscqueiros-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mateuscqueiros/)
+[![Email Badge](https://img.shields.io/badge/mateuscqueiros%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:mateuscqueiros@gmail.com)

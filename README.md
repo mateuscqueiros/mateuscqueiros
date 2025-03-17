@@ -17,6 +17,6 @@ I am a software developer with knowledge in **TypeScript**, **React**, and **Nex
 
 ### Social Media
 
-[![My Portfolio](https://img.shields.io/badge/My%20Portfolio-0c192a?logo=vite&logoColor=fff)](https://mateuscqueiros.vercel.app/){:target="_blank"}
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/@mateuscqueiros-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mateuscqueiros/){:target="_blank"}
-[![Email Badge](https://img.shields.io/badge/mateuscqueiros%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:mateuscqueiros@gmail.com){:target="_blank"}
+[![My Portfolio](https://img.shields.io/badge/My%20Portfolio-0c192a?logo=vite&logoColor=fff)](https://mateuscqueiros.vercel.app/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/@mateuscqueiros-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mateuscqueiros/)
+[![Email Badge](https://img.shields.io/badge/mateuscqueiros%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:mateuscqueiros@gmail.com)
